@@ -1,0 +1,9 @@
+117a118,125
+> 
+> # Tweak command prompt
+> PS1="[\u@\h \A \W] "
+> 
+> # Set solarized dircolors
+> if [ -f ~/.dir_colors/dircolors ]; then
+>   eval `dircolors ~/.dir_colors/dircolors`;
+> fi

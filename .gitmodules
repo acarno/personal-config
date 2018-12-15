@@ -7,3 +7,6 @@
 [submodule "gnome-terminal-colors-solarized"]
 	path = gnome-terminal-colors-solarized
 	url = https://github.com/Anthony25/gnome-terminal-colors-solarized
+[submodule "vim-better-whitespace"]
+	path = vim-better-whitespace
+	url = https://github.com/ntpeters/vim-better-whitespace
